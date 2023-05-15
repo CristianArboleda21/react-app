@@ -1,11 +1,11 @@
 import { ProductCard as ProductCardHOC } from "./ProductCard";
 
-import { ProductTitle } from "./PreductTitle";
+import { ProductTitle } from "./ProductTitle";
 import { ProductButtons } from "./ProductButtons";
 import { ProductImage } from "./ProductImage";
 import { ProductCardHOCProps } from "../interfaces/interfaces";
 
-export { ProductTitle } from "./PreductTitle";
+export { ProductTitle } from "./ProductTitle";
 export { ProductButtons } from "./ProductButtons";
 export { ProductImage } from "./ProductImage";
 
